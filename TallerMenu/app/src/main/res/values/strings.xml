@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menudesplegable</string>
+    <string-array name="languages">
+        <item>Menu desplegable</item>
+        <item>Programacion orientada a moviles</item>
+        <item>Programacion orienta a la Web</item>
+        <item>Analisis y algoritmos</item>
+        <item>Algoritmos y programacion </item>
+    </string-array>
+</resources>
